@@ -15,15 +15,12 @@ Android 广告过滤、自动跳过与原生 View 屏蔽工具（LSPosed 模块�
 - 自动跳过需开启无障碍服务；1 像素 view 保活需允许显示悬浮窗。
 - Xposed 功能需在 LSPosed 中启用模块并选择目标应用。
 - 系统验证码通道还需选择系统框架 `android`，更新后重启手机加载系统 Hook。
-- 设备管理器通过系统界面手动授权。
+- 设备管理器通过系统界面手动授权
 
-## 包名
-
-`io.github.k7767c.adzen`
-
-## 反馈
+## 构建、反馈与交流
 
 - 加入 https://t.me/xiyouF
-
+## 第三方许可
+系统验证码通道参考 OtpAutoCopy-LSPosed，遵循 MIT；许可位于 licenses/OtpAutoCopy-LSPosed.txt 并随 APK 附带。基包保留的 SDK、网络库及规则来源许可位于 APK 的 assets/licenses/。详见 第三方声明。
 
 
