@@ -23,4 +23,7 @@ Android 广告过滤、自动跳过与原生 View 屏蔽工具（LSPosed 模块�
 
 ## 反馈
 
-- 加入 Telegram 群组获取支持。
+- 加入 https://t.me/xiyouF4获取支持。
+
+
+
