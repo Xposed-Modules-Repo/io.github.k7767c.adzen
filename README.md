@@ -19,7 +19,7 @@ Android 广告过滤、自动跳过与原生 View 屏蔽工具（LSPosed 模块�
 
 ## 构建、反馈与交流
 
-- 加入 https://t.me/xiyouF
+- 加入 https://t.me/xiyouF4
 ## 第三方许可
 系统验证码通道参考 OtpAutoCopy-LSPosed，遵循 MIT；许可位于 licenses/OtpAutoCopy-LSPosed.txt 并随 APK 附带。基包保留的 SDK、网络库及规则来源许可位于 APK 的 assets/licenses/。详见 第三方声明。
 
